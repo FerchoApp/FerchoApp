@@ -4,7 +4,11 @@
 
 ###
 
-<img align="center" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTVjOW5oOGM1NGFsejR3bWdwMzd6M29zM25rcTllNTc0aHplajl4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R5dspTNJBVL51hiSN7/giphy.gif"  />
+<img align="left" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTVjOW5oOGM1NGFsejR3bWdwMzd6M29zM25rcTllNTc0aHplajl4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R5dspTNJBVL51hiSN7/giphy.gif"  />
+
+<h1 align="right">Estudiante de Ingeniería de Sistemas con interés en desarrollo de software y tecnologías web. Cuento con conocimientos en programación, bases de datos y desarrollo de aplicaciones, adquiridos mediante proyectos académicos y personales. Me caracterizo por mi capacidad de aprendizaje, trabajo en equipo y resolución de problemas. Busco una oportunidad para desarrollar mis habilidades y aportar en proyectos tecnológicos. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
+
+Estudiante de Ingeniería de Sistemas con interés en desarrollo de software y tecnologías web. Cuento con conocimientos en programación, bases de datos y desarrollo de aplicaciones, adquiridos mediante proyectos académicos y personales. Me caracterizo por mi capacidad de aprendizaje, trabajo en equipo y resolución de problemas. Busco una oportunidad para desarrollar mis habilidades y aportar en proyectos tecnológicos. 
 
 ###
 
@@ -51,7 +55,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FerchoApp/FerchoApp/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FerchoApp/FerchoApp/output/pacman-contribution-graph.svg">
 </picture>
-###
 
 <div align="left">
 </div>
